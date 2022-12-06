@@ -9,10 +9,9 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303&show_icons=true&theme=radical)
-# Parking area control service for persons with disabilities only
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Jihye_Park's Git Hub%20&desc=Smart%20Parking%20Lot&fontColor=e0be00&fontSize=50&rotate=&fontAlignY=25&fontAlign=50&descAlignY=50&descAlign=50&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Jihye_Park%20&desc=Smart%20Parking%20Lot&fontColor=e0be00&fontSize=50&rotate=&fontAlignY=25&fontAlign=50&descAlignY=50&descAlign=50&&animation=twinkling)
 
 
 
