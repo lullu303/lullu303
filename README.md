@@ -23,9 +23,6 @@
 <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=Grafana&logoColor=white"/></a> &nbsp<br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-3F4F75?style=flat&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp<br>
 
-<a href="https://github.com/lullu303/github-stats">
-<img src="https://github.com/lullu303/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/lullu303/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303&show_icons=true&theme=radical)
