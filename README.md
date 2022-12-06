@@ -8,10 +8,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303&show_icons=true&theme=radical)
 
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Jihye_Park's_GIT%20&desc=&fontColor=e0be00&fontSize=50&rotate=&fontAlignY=25&fontAlign=50&descAlignY=50&descAlign=50&&animation=twinkling)
+
 
 
 
@@ -34,3 +32,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/></a> &nbsp</p>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303&show_icons=true&theme=radical)
