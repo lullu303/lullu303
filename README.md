@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<!--
-**lullu303/lullu303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jihye's_GIT!&fontAlign=55&fontAlignY=45&color=gradient)
 
-Here are some ideas to get you started:
-
--->
 
 
 
