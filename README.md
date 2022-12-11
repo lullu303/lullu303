@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-3F4F75?style=flat&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp<br>
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303&show_icons=true&theme=radical)
-![](https://raw.githubusercontent.com/lullu303/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/lullu303/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&layout=compact&theme=dark)
+
