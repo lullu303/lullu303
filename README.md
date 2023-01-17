@@ -40,5 +40,5 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&langs_count=10&layout=compact&theme=dark)](https://github.com/lullu303/lullu303)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&langs_count=10&layout=compact&theme=dark)]()
 
