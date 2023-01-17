@@ -23,20 +23,8 @@
 <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=Grafana&logoColor=white"/></a> &nbsp<br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-3F4F75?style=flat&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp<br>
 
-<svg width="360" height="210" xmlns="http://www.w3.org/2000/svg">
 
-<g>
-<rect x="5" y="5" id="background" />
-<g>
-<foreignObject x="21" y="17" width="318" height="176">
-<div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2>Most Used Languages</h2>
 
-<div>
-<span class="progress">
-<span style="background-color: #DA5B0B;width: 97.067%;margin-right: 0.980%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.899%;margin-right: 0.018%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.510%;margin-right: 0.010%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.215%;margin-right: 0.004%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.208%;margin-right: 0.004%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.072%;margin-right: 0.001%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.010%;margin-right: 0.000%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.000%;margin-right: 0.000%;" class="progress-item"></span>
-</span>
-</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&layout=compact&theme=tokyonight)
