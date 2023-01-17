@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<div align="center"><h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=Python&logoColor=white"/></a> &nbsp
@@ -24,8 +24,10 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-3F4F75?style=flat&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp<br>
 
 
+<br>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&layout=compact&theme=tokyonight) <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flullu303%2Fhit-counter&count_bg=%23D353B0&title_bg=%237A7A7A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&layout=compact&theme=tokyonight)
+<br>
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flullu303%2Fhit-counter&count_bg=%23D353B0&title_bg=%237A7A7A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </div>
