@@ -39,4 +39,4 @@
 </span>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&layout=Demo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&layout=compact&theme=tokyonight)
