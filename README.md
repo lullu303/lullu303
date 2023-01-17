@@ -39,4 +39,4 @@
 </span>
 </div>
 
-[![jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyepark)](https://github.com/lullu303/github-readme-stats)
+[![jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303)]()
