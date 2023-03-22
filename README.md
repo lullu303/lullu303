@@ -26,7 +26,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303&theme=default&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&layout=compact&theme=default)
 
 <br>
