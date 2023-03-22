@@ -26,8 +26,8 @@
 
 <br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&layout=compact&theme=default)
-<br>
+
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flullu303%2Fhit-counter&count_bg=%23D353B0&title_bg=%237A7A7A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </div>
