@@ -39,7 +39,10 @@
 
 <br></br>
 ### 📄 Projects 📄
+[![](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech)
+
 [![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech)
+
 
 <br></br>
 
