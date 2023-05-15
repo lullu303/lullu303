@@ -39,9 +39,9 @@
 
 <br></br>
 ### 📄 Projects 📄
-[![](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech)
+[![Parking-System](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=Tippingpoint&theme=tokyonight)](https://github.com/lullu303/Tippingpoint)
 
-[![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech)
+<!-- [![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech) -->
 
 
 <br></br>
