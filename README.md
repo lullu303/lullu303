@@ -34,3 +34,13 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flullu303%2Fhit-counter&count_bg=%23D353B0&title_bg=%237A7A7A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </div>
+
+----------------
+
+<br></br>
+### 📄 Projects 📄
+[![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech)
+
+<br></br>
+
+</div>
