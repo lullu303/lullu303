@@ -3,9 +3,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jihye's_GIT!&fontAlign=55&fontAlignY=45&color=gradient)
 
 
-
-
-<div align="center"><h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<div align="center"><h3 align="center">
+  <b> 🛠 Tech Stacks 🛠 </b></h3>
 </br>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=Python&logoColor=white"/></a> &nbsp
