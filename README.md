@@ -39,8 +39,9 @@ Programming Skills: **Python**, HTML, CSS, JavaScript, Java, PhotoShop
 [![Parking-System](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=Tippingpoint&theme=tokyonight)](https://github.com/lullu303/Tippingpoint)
 [![Diary-System](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=Make_Joy&theme=tokyonight)](https://github.com/lullu303/Make_Joy.git)<br>
 [![Data_Analysis](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=RPG_PJT&theme=tokyonight)](https://github.com/lullu303/RPG_PJT)
-[![Data-Science](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=DataScience&theme=tokyonight)](https://github.com/lullu303/DataScience)<br>
 [![HTML](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=HTML&theme=tokyonight)](https://github.com/lullu303/HTML)
+[![Data-Science](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=DataScience&theme=tokyonight)](https://github.com/lullu303/DataScience)<br>
+
 <!-- [![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech) -->
 
 <br></br>
