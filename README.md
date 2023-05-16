@@ -30,16 +30,6 @@ Database Skills: **MySQL**, NoSQL
 Programming Skills: **Python**, HTML, CSS, JavaScript, Java, PhotoShop
 
 
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303&theme=transparent&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lullu303&theme=transparent)](https://git.io/streak-stats)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&layout=compact&theme=transparent)
-<!-- http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={lullu303}&theme={dracula} -->
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flullu303%2Fhit-counter&count_bg=%23D353B0&title_bg=%237A7A7A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </div>
 
 ----------------
 <div align="center">
@@ -53,7 +43,18 @@ Programming Skills: **Python**, HTML, CSS, JavaScript, Java, PhotoShop
 [![HTML](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=HTML&theme=tokyonight)](https://github.com/lullu303/HTML)
 <!-- [![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech) -->
 
-
 <br></br>
+
+----------------
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullu303&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lullu303&layout=compact&theme=transparent)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=lullu303&theme=transparent)](https://git.io/streak-stats) -->
+<br>
+
+<!-- http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={lullu303}&theme={dracula} -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flullu303%2Fhit-counter&count_bg=%23D353B0&title_bg=%237A7A7A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </div>
 
 </div>
