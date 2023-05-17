@@ -36,7 +36,7 @@ Programming Skills: **Python**, HTML, CSS, JavaScript, Java, PhotoShop
 📄 Projects 📄
 <br></br>
 
-[![Parking-System](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=Tippingpoint&theme=tokyonight)](https://github.com/lullu303/Tippingpoint)
+[![Parking-System](https://github-readme-stats.vercel.app/api/pin/?username=whddhks&repo=Tippingpoint&theme=tokyonight)](https://github.com/whddhks/TippingPoint)
 [![Diary-System](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=Make_Joy&theme=tokyonight)](https://github.com/lullu303/Make_Joy.git)
 [![Data_Analysis](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=RPG_PJT&theme=tokyonight)](https://github.com/lullu303/RPG_PJT)
 [![HTML](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=HTML&theme=tokyonight)](https://github.com/lullu303/HTML)
