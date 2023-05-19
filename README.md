@@ -36,12 +36,12 @@ Programming Skills: **Python**, HTML, CSS, JavaScript, Java, PhotoShop
 📄 Projects 📄
 <br></br>
 
-[![Parking-System](https://github-readme-stats.vercel.app/api/pin/?username=whddhks&repo=Tippingpoint&theme=tokyonight)](https://github.com/whddhks/TippingPoint)
-[![Diary-System](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=Make_Joy&theme=tokyonight)](https://github.com/lullu303/Make_Joy.git)
-[![Data_Analysis](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=RPG_PJT&theme=tokyonight)](https://github.com/lullu303/RPG_PJT)
-[![HTML](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=HTML&theme=tokyonight)](https://github.com/lullu303/HTML)
-[![Data-Science](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=DataScience&theme=tokyonight)](https://github.com/lullu303/DataScience)
-[![Data-Science2](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=DataScience2&theme=tokyonight)](https://github.com/lullu303/DataScience2)
+[![Parking-System](https://github-readme-stats.vercel.app/api/pin/?username=whddhks&repo=Tippingpoint&theme=transparent)](https://github.com/whddhks/TippingPoint)
+[![Diary-System](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=Make_Joy&theme=transparent)](https://github.com/lullu303/Make_Joy.git)
+[![Data_Analysis](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=RPG_PJT&theme=transparent)](https://github.com/lullu303/RPG_PJT)
+[![HTML](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=HTML&theme=transparent)](https://github.com/lullu303/HTML)
+[![Data-Science](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=DataScience&theme=transparent)](https://github.com/lullu303/DataScience)
+[![Data-Science2](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=DataScience2&theme=transparent)](https://github.com/lullu303/DataScience2)
 
 <!-- [![blocking-hate-speech](https://github-readme-stats.vercel.app/api/pin/?username=DAWUNHAN&repo=BERT-detect-hate-speech&theme=tokyonight)](https://github.com/DAWUNHAN/BERT-detect-hate-speech) -->
 
