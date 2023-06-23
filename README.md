@@ -27,7 +27,7 @@ Database Skills: **MySQL**, NoSQL
 
 <!-- Data Visualisation: **Tableau, Google Data Studio**, Metabase   -->
 
-Programming Skills: **Python**, HTML, CSS, JavaScript, Java, PhotoShop
+Programming Skills: **Python**, **R**, HTML, CSS, JavaScript, Java
 
 
 
