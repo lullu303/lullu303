@@ -37,7 +37,7 @@ Programming Skills: **Python**, **R**, HTML, CSS, JavaScript, Java
 <br></br>
 
 [![Parking-System](https://github-readme-stats.vercel.app/api/pin/?username=whddhks&repo=Tippingpoint&theme=transparent)](https://github.com/whddhks/TippingPoint)
-[![SmartWindow](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=Window23&theme=transparent)](https://github.com/lullu303/Window23)
+[![SmartWindow](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=SmartWindow&theme=transparent)](https://github.com/lullu303/Window23)
 [![Diary-System](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=Make_Joy&theme=transparent)](https://github.com/lullu303/Make_Joy.git)
 [![Data_Analysis](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=RPG_PJT&theme=transparent)](https://github.com/lullu303/RPG_PJT)
 [![HTML](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=HTML&theme=transparent)](https://github.com/lullu303/HTML)
