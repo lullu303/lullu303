@@ -34,7 +34,7 @@ Programming Skills: **Python**, **R**, HTML, CSS, JavaScript, Java
 ----------------
 <div align="center">
 📄 Projects 📄
-<br></br>
+<!-- <br></br>
 
 [![Parking-System](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=Tippingpoint&theme=tokyonight)](https://github.com/whddhks/TippingPoint)
 [![SmartWindow](https://github-readme-stats.vercel.app/api/pin/?username=lullu303&repo=SmartWindow&theme=tokyonight)](https://github.com/lullu303/Window23)
@@ -61,3 +61,4 @@ Programming Skills: **Python**, **R**, HTML, CSS, JavaScript, Java
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flullu303%2Fhit-counter&count_bg=%23D353B0&title_bg=%237A7A7A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </div>
 
 </div>
+ -->
