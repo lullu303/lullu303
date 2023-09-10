@@ -23,11 +23,11 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-3F4F75?style=flat&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp<br> -->
 Data Science: TensorFlow, OpenCV, Scikit-learn, Pandas
 
-Database Skills: **MySQL**, NoSQL
+Database Skills: **MySQL**
 
 <!-- Data Visualisation: **Tableau, Google Data Studio**, Metabase   -->
 
-Programming Skills: **Python**, **R**, HTML, CSS, JavaScript, Java
+Programming Skills: **Python**, **R**, HTML, CSS
 
 
 
