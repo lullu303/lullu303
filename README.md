@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"/></a> &nbsp<br>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=Grafana&logoColor=white"/></a> &nbsp<br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-3F4F75?style=flat&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp<br> -->
-Data Science: TensorFlow, OpenCV, Scikit-learn, Pandas
+Data Science: TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn
 
 Database Skills: **MySQL**
 
